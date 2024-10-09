@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 💬 Ask me about **Deep Learning, Python, C#**
+- 💬 Ask me about **Deep Learning, Python, C#, Mobile Programming(Kotlin) **
 
 - 📫 How to reach me **metin.agan01@gmail.com**
 
