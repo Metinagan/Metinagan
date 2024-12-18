@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Metin Agan</h1>
-<h3 align="center">A passionate computer vision engineer from Turkey</h3>
+<h3 align="center">A passionate computer engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metinagan&label=Profile%20views&color=0e75b6&style=flat" alt="metinagan" /> </p>
 
-- 🌱 I’m currently learning **OpenCV and Kotlin**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Deep Learning, Python, C#, Mobile Programming(Kotlin)**
+- 💬 Ask me about **Deep Learning, Python, C#, Mobile Programming(Kotlin), Spring Tool Suite**
 
 - 📫 How to reach me **metin.agan01@gmail.com**
 
