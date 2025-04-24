@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Deep Learning, Python, C#, Mobile Programming(Kotlin), Spring Tool Suite**
+- 💬 Ask me about **Deep Learning, Spring Tool Suite**
 
 - 📫 How to reach me **metin.agan01@gmail.com**
 
